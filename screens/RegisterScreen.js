@@ -149,11 +149,13 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#fe0058',
     marginBottom: 6,
+    marginLeft: 110,
   },
   subtitle: {
     fontSize: 14,
     color: '#999',
     marginBottom: 28,
+    marginLeft: 99,
   },
   label: {
     color: '#fff',
