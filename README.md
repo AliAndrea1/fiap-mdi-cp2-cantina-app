@@ -92,7 +92,7 @@
 
 https://www.youtube.com/shorts/2xerFegFgz4
 
-##Prints
+## Prints
 
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/f68142c4-4930-4304-b34d-440ad4fd8360" />
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/1f055720-c9a6-4e61-9687-9df841aa2370" />
