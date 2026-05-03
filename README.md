@@ -245,7 +245,6 @@ Foram criadas cinco telas principais:
 
 # Próximos Passos:
 - Implementar historico de compras
-- Tema dinamico
 - Modo claro e Modo escuro
 
 
