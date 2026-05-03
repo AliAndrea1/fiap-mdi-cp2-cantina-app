@@ -92,12 +92,20 @@
 
 https://www.youtube.com/shorts/2xerFegFgz4
 
-## Prints
 
+## Tela de Login
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/f68142c4-4930-4304-b34d-440ad4fd8360" />
+
+## Tela de Registro
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/1f055720-c9a6-4e61-9687-9df841aa2370" />
+
+## Tela Inicial
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/16d24c8b-a1d1-4014-8f3b-005055e18e27" />
+
+## Tela de Menu
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/99fb9a70-d4f7-46e6-9a1b-e56dc629412d" />
+
+## Telas de Carrinho (Vazio, cheio, compra finalizada)
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/98fe9b37-944b-4a4c-a54c-116e1ee7ccfb" />
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/3f812213-fbe5-4cfd-b9f0-8ef1cd2f721c" />
 <img width="250" height="550" alt="image" src="https://github.com/user-attachments/assets/75bcf4a0-8440-4588-bce2-25d258551f14" />
@@ -212,7 +220,8 @@ function RootNavigator() {
 - Expo
 - React Navigation
 - JavaScript
-
+- AsyncStorage
+- Context API
 
 ---
 
@@ -236,6 +245,8 @@ Foram criadas cinco telas principais:
 
 # Próximos Passos:
 - Implementar historico de compras
+- Tema dinamico
+- Modo claro e Modo escuro
 
 
 
